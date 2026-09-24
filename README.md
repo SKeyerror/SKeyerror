@@ -7,6 +7,7 @@
       .github/workflows/snake.yml        → contribution snake (branch `output`)
       .github/workflows/blog-posts.yml   → latest posts from smartkeyerror.com
       .github/workflows/anime-quote.yml  → 今日の一言 (AnimeChan)
+      .github/workflows/summary-cards.yml → stats cards (profile-summary-card-output/)
   • Colours follow the Tokyo Night palette: bg 1a1b26 · fg c0caf5 ·
     blue 7aa2f7 · purple bb9af7 · cyan 7dcfff · green 9ece6a · pink f7768e
 -->
@@ -139,10 +140,13 @@ nginx 源码阅读：关键组件与核心运转流程，配图讲解。
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SKeyerror&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=SKeyerror&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&date_format=Y-M-j" alt="streak"/>
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKeyerror&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="top languages"/>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="stats"/>
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="repos per language"/>
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" alt="productive time"/>
+
+<img src="https://streak-stats.demolab.com/?user=SKeyerror&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&date_format=Y-M-j" alt="streak"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKeyerror/SKeyerror/output/github-snake-dark.svg"/>

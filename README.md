@@ -154,9 +154,9 @@ nginx 源码阅读：关键组件与核心运转流程，配图讲解。
 <img src="assets/ep07.svg" width="100%" alt="EP.07 今日の一言 / Anime Quote of the Day"/>
 
 <!-- ANIME-QUOTE:START -->
-> 「Victory isn't something you are given. It is something you take.」
+> 「I'm Tired...of Eatin' Stuff Like Toast with Jam for Breakfast...!」
 >
-> — **Ushiromiya Battler**, *Umineko: When They Cry (Umineko no Naku Koro ni)*
+> — **Denji**, *Chainsaw Man*
 <!-- ANIME-QUOTE:END -->
 
 <p align="right"><sub>每天 08:30 (UTC+8) 由 <a href="https://animechan.io/">AnimeChan</a> 自动换一句</sub></p>

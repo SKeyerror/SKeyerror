@@ -1,0 +1,26 @@
+name: ✍️ Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 1,13 * * *"     # twice a day, offset from the other workflows
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Pull the latest posts from smartkeyerror.com
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://smartkeyerror.com/feed.xml"
+          max_post_count: 6
+          comment_tag_name: BLOG-POST-LIST
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore(blog): refresh latest posts"

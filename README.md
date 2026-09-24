@@ -123,13 +123,12 @@ nginx 源码阅读：关键组件与核心运转流程，配图讲解。
 
 <img src="assets/ep05.svg" width="100%" alt="EP.05 最新記事 / Latest Posts"/>
 
-<!-- BLOG-POST-LIST:START -->
-- [浅析 Greenplum 中的 Squelch 机制](https://smartkeyerror.com/Greenplum-Squelch) <sub>2023-05-14</sub>
-- [庖丁解牛——从 BRIN Index 到 PostgreSQL AM](https://smartkeyerror.com/PostgreSQL-BRIN) <sub>2023-02-23</sub>
-- [Greenplum 7 中的资源管理控制](https://smartkeyerror.com/Greenplum-Resource-Management) <sub>2023-01-13</sub>
-- [关于 Linux Cgroup 的一些个人理解](https://smartkeyerror.com/Linux-Cgroup) <sub>2022-12-13</sub>
-- [如何理解 Greenplum 中的分布式快照？](https://smartkeyerror.com/Greenplum-Distributed-Snapshot) <sub>2022-11-09</sub>
-- [Greenplum 是如何实现更新分片键的?](https://smartkeyerror.com/Split-Update) <sub>2022-07-30</sub>
+<!-- BLOG-POST-LIST:START -->- [浅析 Greenplum 中的 Squelch 机制](https://smartkeyerror.com/Greenplum-Squelch) <sub>2023-05-14</sub>
+- [庖丁解牛——从 BRIN Index 到 PostgreSQL AM](https://smartkeyerror.com/PostgreSQL-BRIN) <sub>2023-02-22</sub>
+- [Greenplum 7 中的资源管理控制](https://smartkeyerror.com/Greenplum-Resource-Management) <sub>2023-01-12</sub>
+- [关于 Linux Cgroup 的一些个人理解](https://smartkeyerror.com/Linux-Cgroup) <sub>2022-12-12</sub>
+- [如何理解 Greenplum 中的分布式快照？](https://smartkeyerror.com/Greenplum-Distributed-Snapshot) <sub>2022-11-08</sub>
+- [Greenplum 是如何实现更新分片键的?](https://smartkeyerror.com/Split-Update) <sub>2022-07-29</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><sub>→ 更多在 <a href="https://smartkeyerror.com/">smartkeyerror.com</a></sub></p>

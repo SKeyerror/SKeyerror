@@ -16,9 +16,9 @@
 蓝头白眼、后半身黄；底部进度条已去掉，画布随之裁矮。
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="preview/snake-python-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="preview/snake-python.svg"/>
-  <img alt="python snake" src="preview/snake-python.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="preview/snake-python-v3-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="preview/snake-python-v3.svg"/>
+  <img alt="python snake" src="preview/snake-python-v3.svg" width="100%"/>
 </picture>
 
 ## 3. 对照 · 原版贪吃蛇（Tokyo Night 紫）
@@ -31,4 +31,4 @@
 
 ---
 
-深色版单独看：[tetris](preview/tetris.svg) · [snake-python-dark](preview/snake-python-dark.svg) · [snake-original-dark](preview/snake-original-dark.svg)
+深色版单独看：[tetris](preview/tetris.svg) · [snake-python-dark](preview/snake-python-v3-dark.svg) · [snake-original-dark](preview/snake-original-dark.svg)

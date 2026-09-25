@@ -11,9 +11,11 @@
   <img alt="tetris" src="preview/tetris.svg" width="100%"/>
 </picture>
 
-## 2. Python 配色贪吃蛇 · Platane/snk + pythonize_snake.py
+## 2. Python 蛇 v2 · Platane/snk + pythonize_snake.py
 
-蓝头带白眼睛，前两节蓝、后两节黄。
+蓝头白眼、后半身黄；底部进度条已去掉，画布随之裁矮。
+蛇的路线上放了 6 个 logo 当食物，按时间均匀分布：PostgreSQL → Greenplum → C++ → C → Rust → Go。
+蛇头经过时 logo 缩小消失，一轮 70 秒，循环开始时重新长出来。
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="preview/snake-python-dark.svg"/>

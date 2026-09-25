@@ -14,16 +14,15 @@
 
 
 
-<img align="center" src="assets/KuriyamaMirai.jpeg" alt="waifu"/>
+[//]: # (<img align="center" src="assets/KuriyamaMirai.jpeg" alt="waifu"/>)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/snake-python-v3.svg"/>
   <img alt="python snake" src="assets/snake-python-v3.svg" width="100%"/>
 </picture>
 
-- 🐘 **PostgreSQL / Greenplum 内核工程师 @ EnterpriseDB**，日常在 [WarehousePG](https://github.com/warehouse-pg/warehouse-pg)（Greenplum 的开源延续）里折腾 Planner、ORCA、Executor 和 Interconnect
-- 🧩 喜欢用 **XMind 和图** 把计算机世界里精妙的设计画出来 —— [Psyduck](https://github.com/SKeyerror/Psyduck) 4.4k ⭐ 就是这么攒出来的
-- 🔍 信条「**知其然，知其所以然**」：读源码、看 `EXPLAIN`、上 gdb / rr，一路挖到「为什么」为止
-- 🎴 二次元浓度超标：白天调 Planner，晚上追新番 <!-- TODO: 这里补一句本命番 / 本命角色 -->
-- ✍️ 在 [smartkeyerror.com](https://smartkeyerror.com/) 写 Postgres / Greenplum 内核长文，Keep coding, Keep curiosity
+- 🐘 **PostgreSQL / Greenplum Kernel Engineer**，daily hacking on the Planner, ORCA, Executor, and Storage in WarehousePG
+- 🧩 Love using **diagrams** to visualize the elegant designs of the computer world — Psyduck —— [Psyduck](https://github.com/SKeyerror/Psyduck)
+- 🔍 Motto: **"Know not just the 'what', but the 'why'"** — reading source code, analyzing EXPLAIN, firing up gdb / rr, and digging all the way down until I find the answer
+- ✍️ Writing deep dives into Postgres / Greenplum internals at smartkeyerror.com
 

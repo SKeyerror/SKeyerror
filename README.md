@@ -14,9 +14,9 @@
 [//]: # (<img align="center" src="assets/KuriyamaMirai.jpeg" alt="waifu"/>)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKeyerror/SmartKeyerror/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKeyerror/SmartKeyerror/output/github-snake.svg"/>
-  <img alt="python snake" src="https://raw.githubusercontent.com/SKeyerror/SmartKeyerror/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKeyerror/SKeyerror/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKeyerror/SKeyerror/output/github-snake.svg"/>
+  <img alt="python snake" src="https://raw.githubusercontent.com/SKeyerror/SKeyerror/output/github-snake.svg" width="100%"/>
 </picture>
 
 - 🐘 **PostgreSQL / Greenplum Kernel Engineer**, daily hacking on the Planner, ORCA, Executor, and Storage in WarehousePG

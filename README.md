@@ -23,6 +23,6 @@
 
 - 🐘 **PostgreSQL / Greenplum Kernel Engineer**, daily hacking on the Planner, ORCA, Executor, and Storage in WarehousePG
 - 🤩 Love using **diagrams** to visualize the elegant designs of the computer world — Psyduck —— [Psyduck](https://github.com/SKeyerror/Psyduck)
-- 👻 Motto: **"Know not just the 'what', but the 'why'"** — reading source code, analyzing EXPLAIN, firing up gdb / rr, and digging all the way down until I find the answer
+- 👻 **"Know not just the 'what', but the 'why'"** — reading source code, firing up gdb / rr, and digging into the rabbit hole
 - ✍️ Writing deep dives into Postgres / Greenplum internals at [知其然, 知其所以然](https://smartkeyerror.com/)
 
